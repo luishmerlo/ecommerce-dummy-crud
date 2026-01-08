@@ -1,0 +1,13 @@
+:root {
+  --corBg: #ffffff;
+  --corTexto: #000000;
+  --corPrimaria: #3366ff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--corBg);
+  color: var(--corTexto);
+  font-family: Arial, sans-serif;
+}
